@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>10 motivos para viajar para a Coreia do Sul</title>
+    <style>
+      
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #003478;
+        color: #fff;
+        padding: 1rem;
+      }
+      header img {
+        width: 50px;
+        height: 50px;
+      }
+      header h1 {
+        margin: 0;
+        font-size: 2rem;
+      }
+      body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f2f2f2;
+    padding: 2rem;
+  }
+  h1, h2 {
+    color: #003478;
+  }
+  p {
+    line-height: 1.5;
+  }
+  ol, ul {
+    margin-left: 1.5rem;
+  }
+  li {
+    margin: 0.5rem 0;
+  }
+  a {
+    color: #003478;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
+  </head>
+  <body>
+    <header>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/256px-Flag_of_South_Korea.svg.png" alt="Bandeira da Coreia do Sul">
+      <h1>10 motivos para viajar para a Coreia do Sul</h1>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/256px-Flag_of_South_Korea.svg.png" alt="Bandeira da Coreia do Sul">
+    </header>
+    <div class="content">
+    <h1>10 motivos para viajar para a Coreia do Sul</h1>
+    <h2>Uma cultura fascinante, natureza deslumbrante e muito mais!</h2>
+    <p>Se você está procurando por um destino turístico único, a Coreia do Sul é o lugar certo! Com uma cultura milenar, tecnologia avançada e belezas naturais incríveis, este país asiático oferece uma experiência inesquecível. Confira abaixo 10 motivos para incluir a Coreia do Sul no seu próximo roteiro de viagem:</p>
+    <ol>
+      <li>
+        <p>Gastronomia incrível: a culinária coreana é uma das mais saborosas e variadas do mundo. Experimente pratos como o bulgogi (carne marinada), o kimchi (conserva de vegetais) e o bibimbap (arroz misturado com legumes e carne).</p>
+      </li>
+      <li>
+        <p>Cultura fascinante: a Coreia do Sul é um país com uma cultura rica e vibrante. Visite templos budistas, palácios reais e museus para conhecer mais sobre a história e tradições locais.</p>
+      </li>
+      <li>
+        <p>Tecnologia de ponta: a Coreia do Sul é um dos países mais avançados em tecnologia no mundo. Visite bairros como Gangnam em Seul para ver as últimas novidades em eletrônicos e gadgets.</p>
+      </li>
+      <li>
+        <p>Natureza deslumbrante: a Coreia do Sul tem paisagens incríveis, com montanhas, praias e parques nacionais. Visite o Parque Nacional de Seoraksan para ver picos nevados, cachoeiras e trilhas incríveis.</p>
+      </li>
+      <li>
+        <p>Pop culture: a Coreia do Sul é conhecida como o berço do K-pop, K-dramas e outros produtos da cultura pop. Visite a cidade de Busan para conhecer a cena musical e cinematográfica local.</p>
+      </li>
+      <li>
+        <p>Festivais e eventos culturais: a Coreia do Sul tem uma série de festivais durante o ano todo, como o Festival de Lanternas de Seul, o Festival de Flores de cerejeira em Jinhae e o Festival de Fogo de artifício de Busan.</p>
+      </li>
+      <li>
+        <p>Hallyuwood: a Coreia do Sul é um grande produtor de filmes e dramas. Visite o Museu de Cinema e Animação de Seul e o Museu de Arte Contemporânea de Gwacheon para descobrir mais sobre a cultura cinematográfica do país.</p>
+      </li>
+      <li>
+        <p>Arquitetura antiga e moderna: a Coreia do Sul é um país que preserva sua arquitetura tradicional, como os palácios de Gyeongbokgung e Changdeokgung, ao mesmo tempo em que possui arranha-céus modernos e arrojados, como a torre Lotte
+        <li>
+          <p> Nem só de dorama vive a Coreia traz um enorme e milenar polo cultural</p>
+        </li>
+        <li>
+          <p>Se tornou o maior polo dos e-sports tendo diversos eventos para ser assistidos.</p>
+        </li>
+          <ul>
+            <li>
+              <a href="https://www.visitkorea.or.kr/" target="_blank">Visite o site oficial de turismo da Coreia do Sul</a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=PNBNRvVO5ZE" target="_self">Assista a um vídeo sobre a gastronomia coreana</a>
+            </li>
+          </ul>
+          </html>
+          
